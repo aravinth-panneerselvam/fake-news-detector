@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+dataset/
+*.zip
+
+# Node
+node_modules/
+build/
+
+# OS
+.DS_Store
+
+# Model artifacts
+fake_news_model/
+models/
+checkpoints/
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.onnx
